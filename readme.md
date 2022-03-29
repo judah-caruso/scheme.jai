@@ -1,4 +1,4 @@
-# Scheme.jai
+# Schemes.jai
 
 A small library for working with [Schemes](https://github.com/judah-caruso/schemes).
 
@@ -8,7 +8,7 @@ A small library for working with [Schemes](https://github.com/judah-caruso/schem
 ```bash
 # Manual management
 mkdir vendor && cd vendor/
-git clone https://github.com/judah-caruso/scheme.jai Scheme
+git clone https://github.com/judah-caruso/schemes.jai Scheme
 ```
 
 ```odin
